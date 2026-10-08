@@ -1,1 +1,2 @@
 "Caso 1: login exitoso"
+"Caso 2: login fallido"
