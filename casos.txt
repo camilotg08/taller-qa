@@ -1,3 +1,4 @@
 "Caso 1: login exitoso"
 "Caso 2: login fallido"
 "Caso 3: credenciales vencidas"
+Caso 4: credenciales antiguas
